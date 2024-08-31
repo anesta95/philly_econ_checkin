@@ -1,0 +1,6 @@
+series_id,date,fips_code,area_text,value
+LAUMT363562000000003,2024-07-01,36356,"New York-Newark-Jersey City, NY-NJ-PA",5.3
+LAUMT423798000000003,2024-07-01,42379,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",4.4
+LAUMT423830000000003,2024-07-01,42383,"Pittsburgh, PA",4
+LAUMT114790000000003,2024-07-01,11479,"Washington-Arlington-Alexandria, DC-VA-MD-WV",3.5
+LAUMT241258000000003,2024-07-01,24125,"Baltimore-Columbia-Towson, MD",3.4
